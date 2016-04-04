@@ -1,5 +1,6 @@
 # tiger
 3Dモデルをちぎっては投げる試み
+<img width="714" alt="2016-04-05 5 43 00" src="https://cloud.githubusercontent.com/assets/18297/14262610/5abdef9c-faf1-11e5-824f-5cbfeda1b951.png">
 - 地理院の3Dがあの大作の3D技術とまともにぶつかっては勝てん。
 - よって策を用いる。
 - 縮尺を大きくする。個別の城が見える縮尺まで引き込み、10m DEM の実力が発揮できるところまで持ち込んでから <a href="//github.com/hfu/tiger/issues">3D モデルをちぎっては投げ、ちぎっては投げる</a>方法で詳細なデータの魅力を訴える。
